@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "920371762404",
+    "firebase_url": "https://in-mind-21625-default-rtdb.firebaseio.com",
+    "project_id": "in-mind-21625",
+    "storage_bucket": "in-mind-21625.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920371762404:android:e8ce5caa9f94f2df5dc8f1",
+        "android_client_info": {
+          "package_name": "bavon.tests.job.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920371762404-oi1qdeb650n3l2u2upjhtcqvk672f2dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBZzU9lSkwZcLLlDhr3YbQANTp83wYreU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920371762404-oi1qdeb650n3l2u2upjhtcqvk672f2dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920371762404:android:1f7103e1ca36a3745dc8f1",
+        "android_client_info": {
+          "package_name": "com.offinet.inmind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920371762404-1hpgflpv2ptl26fllusp11d6kgklv598.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.offinet.inmind",
+            "certificate_hash": "5b5ac2c52492a25749fcbd3465ba08aa77327136"
+          }
+        },
+        {
+          "client_id": "920371762404-feggum6j0sn6q6qt91tjrqfb5dso2mch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.offinet.inmind",
+            "certificate_hash": "716238abc0cca2c5501243852af8c2530068ad28"
+          }
+        },
+        {
+          "client_id": "920371762404-s2d74jg981frheueafn7pfdi0jr2im7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.offinet.inmind",
+            "certificate_hash": "7972a6a40851d78960efb2d9e6dc3cc5381d39f8"
+          }
+        },
+        {
+          "client_id": "920371762404-oi1qdeb650n3l2u2upjhtcqvk672f2dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBZzU9lSkwZcLLlDhr3YbQANTp83wYreU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920371762404-oi1qdeb650n3l2u2upjhtcqvk672f2dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
